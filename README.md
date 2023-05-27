@@ -1,9 +1,9 @@
 # app-dev
 My first repository.
-| My favorite | Movie |
+| Syntax | Description |
 | ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
+| Olympus has fallen | Cars |
+| Lone Survivor | Pope Exorcist |
 ```
 {
   "firstName": "Aron Jomer",
