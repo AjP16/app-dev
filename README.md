@@ -19,6 +19,6 @@ My first repository.
 Here's a sentence with a footnote. [^1]
 
 [^1]: This is my first try.
-### My ID number in STI {#02000253618}
+### My ID Number in STI {#02000253618}
 
   
