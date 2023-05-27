@@ -1,8 +1,8 @@
 # app-dev
 My first repository.
-| Syntax |"Olympus Has Fallen" is a 2013 action thriller film directed by Antoine Fuqua |
+| Title | Descrition|
 | ----------- | ----------- |
-| Olympus has fallen | Cars |
+| Cars | The movie explores themes of friendship, self-discovery, and the importance of slowing down and appreciating the simple pleasures of life. It features stunning animation, memorable characters, and an engaging storyline that appeals to both children and adults.|
 | Lone Survivor | Pope Exorcist |
 ```
 {
