@@ -1,6 +1,6 @@
 # app-dev
 My first repository.
-| Syntax | Description |
+| My favorite | Movie |
 | ----------- | ----------- |
 | Header | Title |
 | Paragraph | Text |
