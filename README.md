@@ -6,14 +6,14 @@ My first repository.
 | Paragraph | Text |
 ```
 {
-  "firstName": "John",
-  "lastName": "Smith",
-  "age": 25
+  "firstName": "Aron Jomer",
+  "lastName": "Pedroza",
+  "age": 21
 }
 ```
 Here's a sentence with a footnote. [^1]
 
-[^1]: This is the footnote.
+[^1]: This is my first try.
 ### My Great Heading {#custom-id}
 term
 : definition
