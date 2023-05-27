@@ -19,7 +19,7 @@ My first repository.
 Here's a sentence with a footnote. [^1]
 
 [^1]: This is my first try.
-### My Great Heading {#02000253618}
+### My ID number in STI {#02000253618}
 term
 : definition
 ~~The world is flat.~~
